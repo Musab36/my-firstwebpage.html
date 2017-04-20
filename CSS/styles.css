@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: oblique;
+}
+h2 {
+  color: red;
+  text-align: center;
+  font-style: italic;
+}
+ul {
+  color: purple;
+  font-size: 25;
+  line-height: 35;
+}
+p {
+  color: inherit;
+  font-family: sans-serif;
+  font-style: italic;
+}
